@@ -47,5 +47,5 @@ rm -rf $RPM_BUILD_ROOT
 %_bindir/*
 %_libdir/*
 %_datadir/%{name}/
-%{_infodir}/%{name}.info.bz2
+%{_infodir}/%{name}.info*
 
