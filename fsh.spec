@@ -11,6 +11,7 @@ URL: http://www.lysator.liu.se/fsh/
 Group: Networking/Other
 Source: %{name}-%{version}.tar.bz2
 BuildRoot: %_tmppath/%{name}-buildroot
+Buildrequires: python-devel
 
 %description
 fsh is a tool for establishing an ssh tunnel for remote execution of commands 
