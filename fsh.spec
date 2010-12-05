@@ -1,6 +1,6 @@
 %define name fsh
 %define version 1.2
-%define release %mkrel 9
+%define release %mkrel 10
 
 Summary : A tool for ssh remote execution of commands
 Name: %name
