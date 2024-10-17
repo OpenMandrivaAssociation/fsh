@@ -7,7 +7,7 @@ Name: %name
 Version: %version
 Release: %release
 License: GPL
-URL: http://www.lysator.liu.se/fsh/ 
+URL: https://www.lysator.liu.se/fsh/ 
 Group: Networking/Other
 Source: %{name}-%{version}.tar.bz2
 BuildRoot: %_tmppath/%{name}-buildroot
